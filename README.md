@@ -18,7 +18,7 @@ It's recommended to consider evaluation strategies for the application, includin
 
 ### 2. Prepare the vector store
 
-- python index_document.py
+- python index_documents.py
 
 ### 3. Start the FastAPI server
 
