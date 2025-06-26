@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
-from esg_chain import get_esg_chain
+from chain import get_esg_chain
 
 app = FastAPI()
 chain = get_esg_chain()
